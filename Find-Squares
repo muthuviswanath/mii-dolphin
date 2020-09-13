@@ -1,3 +1,0 @@
-num =int(input("Enter the number to find its square"))
-result = num ** 2
-print(f"Square of the number {num} is: {result}")
